@@ -27,6 +27,7 @@ Now try the following request in your browser: http://localhost:5000/api?q=Who%2
 This should call the code in `QueryProcessor.java`.
 
 
+
 ## Run the unit tests
 
 The skeleton app comes with a small set of unit tests (see the file `QueryProcessorTest`), which you can add to as you 
@@ -88,5 +89,5 @@ deploy:
   provider: heroku
   api_key:
     secure: EPYf4T4U9WfJzHi4/CVp4Eom3PXark9x5fbQ23DGw/bjGxpnqMbqv8=
-  app: robbie-spike-horse-bucket
+  app: horse-battery-66
 ```
